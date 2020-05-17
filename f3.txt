@@ -1,2 +1,0 @@
-This is a third file created for checking the deletion.
-This file is created on 17th May 2020.
