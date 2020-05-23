@@ -1,3 +1,5 @@
 # robotstxt.org/
 
 User-agent: *
+
+#A sample robot line for adding a robot.
