@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	JasonTaylor	GIT Trainer  @JasonT
 
 # THANKS
 
