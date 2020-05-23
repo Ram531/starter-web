@@ -16,6 +16,8 @@ A deployment can be made to any web server or to any local machine or to cloud.
 
 ## How To Contribute
 
+Please fork the master branch always and create a new branch for changes. Please issue pull requests for review for merging to master.
+
 ### Copyright
 
 2020 Git studying.
