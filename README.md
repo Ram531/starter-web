@@ -15,3 +15,7 @@ As state above, the purpose is to understand the various git commands.
 A deployment can be made to any web server or to any local machine or to cloud.
 
 ## How To Contribute
+
+### Copyright
+
+2020 Git studying.
