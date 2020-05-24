@@ -8,7 +8,7 @@
 
 # THANKS
 
-    <name>
+    <name> Thanks to all the training given!
 
 # TECHNOLOGY COLOPHON
 
