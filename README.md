@@ -4,7 +4,7 @@ This is a sample web project for showing how to use Git and Github together.
 
 ## Introduction
 
-This is an example to show the different parts of the git repository and various commands using a web project. Updated the line after checking rebase.
+This is an example to show the different parts of the git repository and various commands using a web project. Updated the line after checking rebase and also retrying merge concept.
 
 ## Purpose
 
