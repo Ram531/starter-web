@@ -9,6 +9,7 @@
 # THANKS
 
     <name> Thanks to all the training given! Thanks for making us understand the GIT concepts!
+	Thanks for his efforts in letting us know new concepts!
 
 # TECHNOLOGY COLOPHON
 
