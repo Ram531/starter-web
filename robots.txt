@@ -5,3 +5,5 @@ User-agent: *
 #A sample robot line for adding a robot.
 
 #A second robot line for adding a robot for testing git rebase command.
+
+#A third robot line for adding a robot for completing fresco play assessment.
